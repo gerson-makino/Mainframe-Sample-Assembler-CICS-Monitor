@@ -1,5 +1,5 @@
 # Mainframe-Sample-CICS-Monitor
-Sample Mainframe CICS Monitor
+Sample Mainframe CICS Monitor (developed using Assembler/370)
 
 This program was developed a couple of years ago when I was working in the CICS Monitoring Lab. Basically it is the modified version of the CICS CEMT transaction. I used those programs to test new CICS features and to create new dashboards before going to the oficial product.
 
